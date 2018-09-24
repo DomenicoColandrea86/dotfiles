@@ -93,5 +93,8 @@ brew install tree
 brew install vbindiff
 brew install zopfli
 
+# z hopping around folders
+brew install z
+
 # Remove outdated versions from the cellar.
 brew cleanup
